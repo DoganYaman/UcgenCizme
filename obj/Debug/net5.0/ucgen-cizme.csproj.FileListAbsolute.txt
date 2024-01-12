@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\refint\ucgen-cizme.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ucgen-cizme\obj\Debug\net5.0\ref\ucgen-cizme.dll
